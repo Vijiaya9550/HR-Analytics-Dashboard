@@ -27,3 +27,6 @@ To analyze employee data and understand employee attrition patterns through inte
 
 ## 👩‍💻 Created By
 Aspiring Data Analyst
+## 📸 Dashboard Preview
+
+![HR Analytics Dashboard](HR-Dashboard.png)
